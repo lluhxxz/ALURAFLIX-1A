@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: blueviolet;
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 2px #ff0000;
+    padding: 20px;
+    font: 32px;
+    color: bisque (42, 122, 228);
+}
